@@ -1,7 +1,7 @@
 Package: dce
 Type: Package
 Title: Pathway Enrichment Based on Differential Causal Effects
-Version: 1.15.0
+Version: 1.15.1
 Authors@R:
     c(
         person(
@@ -90,3 +90,4 @@ Imports:
     org.Hs.eg.db,
     logger,
     shadowtext
+PackageStatus: Deprecated
